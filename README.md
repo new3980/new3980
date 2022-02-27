@@ -20,6 +20,11 @@
 ⠄⠄⠄⠘⣿⡄⠄⠄⠙⢿⣿⣿⣾⣿⣷⣿⣿⣿⠟⠁⠄⠄⣿⣿⣾⣿⡟⣿⠄⠄       
 ⠄⠄⠄⠄⢻⡇⠸⣆⠄⠄⠈⠻⣿⡿⠿⠛⠉⠄⠄⠄⠄⢸⣿⣇⣿⣿⢿⣿⠄⠄
 
+<hr>
+<h3 align="center">Here is some of my weeb works</h3>
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/81348547/155886680-da3ae708-4a98-4794-86c7-15efac1750db.png" alt="some of my works" height="500" width="500">
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nopparuj-jongserechoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nopparuj-jongserechoke" height="30" width="40" /></a>
