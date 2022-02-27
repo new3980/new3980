@@ -22,8 +22,9 @@
 
 <hr>
 <h3 align="center">Here is some of my weeb works</h3>
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/81348547/155886680-da3ae708-4a98-4794-86c7-15efac1750db.png" alt="some of my works" height="500" width="500">
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/81348547/155886992-92ceea67-e7ee-456a-b00e-c948d4112f08.png" alt="some of my works" height="400" width="400">
 <hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
