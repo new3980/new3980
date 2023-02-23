@@ -1,6 +1,6 @@
     
 <h1 align="center">Yo...It's me LemonRhumbus (Noppa J.)</h1>
-<h3 align="center">I like Lo-Fi stuffs && Hate cunning liar woman 🌌🌌</h3>
+<h3 align="center">I like Lo-Fi stuffs 🌌🌌</h3>
 
 ![111dadwadss](https://user-images.githubusercontent.com/81348547/155885148-c86f88e2-d2a0-4e8d-8f03-841eb7faeaa3.gif)
 ![08f79c909f2304d1d455dfda4bce36ef](https://user-images.githubusercontent.com/81348547/155885621-dfb3a0fc-c0d3-4be8-a8e5-9f31d7911333.gif)
